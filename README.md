@@ -16,5 +16,7 @@ Types Of Transformation
 	- Exponential Trnasformation
 	- Box Cox Transformation
 
+Deatils of Transformations:
+
 
 
